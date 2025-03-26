@@ -1,4 +1,4 @@
-# ctrl c + ctrl v dos trechos usando random forest
+# ctrl c + ctrl v dos trechos usando random forest para n perder
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import roc_curve, auc
 from sklearn.ensemble import RandomForestClassifier
